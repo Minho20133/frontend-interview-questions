@@ -6,3 +6,4 @@ Notes and usage details for frontend-interview-questions.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
