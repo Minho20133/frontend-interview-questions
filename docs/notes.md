@@ -37,3 +37,4 @@ Notes and usage details for frontend-interview-questions.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
